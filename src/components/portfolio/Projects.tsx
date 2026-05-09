@@ -77,7 +77,7 @@ const multimedia: Multimedia[] = [
     title: "Promotional Video Reel",
     description:
       "Short-form promotional edits for hotel campaigns and events — color grading, motion, and sound design.",
-    tags: ["Premiere Pro", "After Effects", "DaVinci Resolve"],
+    tags: ["Capcut", "Filmora"],
     category: "Video Edit",
     Icon: Film,
     accent: "from-[oklch(0.78_0.16_195)] to-[oklch(0.68_0.22_300)]",
