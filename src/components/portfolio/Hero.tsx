@@ -50,7 +50,7 @@ export function Hero() {
             className="inline-flex items-center gap-2 rounded-full glass px-3 py-1.5 text-xs text-muted-foreground"
           >
             <Sparkles size={14} className="text-[var(--teal)]" />
-            Available for freelance projects
+            Available for Employment and freelance projects
           </motion.div>
 
           <motion.h1
