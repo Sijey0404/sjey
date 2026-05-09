@@ -87,7 +87,7 @@ const multimedia: Multimedia[] = [
     title: "Branding & Social Graphics",
     description:
       "Posters, social media creatives, and brand collateral with a clean, modern visual language.",
-    tags: ["Photoshop", "Illustrator", "Figma"],
+    tags: ["Canva", "Illustrator", "Figma"],
     category: "Graphic Design",
     Icon: Palette,
     accent: "from-[oklch(0.70_0.18_250)] to-[oklch(0.82_0.15_190)]",
